@@ -14,5 +14,5 @@ order: 10
   - Hadoop, Spark에 관심이 있어 스터디를 하고 있습니다.
   - 공부하고 넘어가기보다 시간이 걸리더라도 정리를하고 기록을 남기고싶어서 시작하게 되었습니다.
 
-> email: hanovator@gmail.com
-> velog: https://velog.io/@hanovator
+> - email: hanovator@gmail.com
+> - velog: https://velog.io/@hanovator
