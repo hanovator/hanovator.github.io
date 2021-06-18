@@ -7,6 +7,14 @@ tags: nlp
 comments: true
 ---
 
+### 목차
+1. BERT 개요
+2. Model Architecture
+3. Model Pre-training
+4. Task specific-Models
+5. BERT vs GPT vs ELMo
+6. Reference
+
 ## 1. BERT 개요
 - 2018년 여러 NLP task에서 SOTA를 기록한 모델
 - 그림1과 같이 semi-supervised learning step과 특정 처리를 위한 supervised training으로 나뉜다.
