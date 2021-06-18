@@ -7,5 +7,4 @@ order: 10
 
 ## 소개
 
-AI Engineer han.
-
+AI Research/Engineer han.
