@@ -6,12 +6,6 @@ categories: dl
 tags: vision
 comments: true
 ---
-## 목차
-Abstract
-1. Introduction
-3. Approach
-4. Experiments
-Reference
 
 ## HRNet pose estimation 논문 리뷰
 
